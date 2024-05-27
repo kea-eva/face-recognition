@@ -1,5 +1,5 @@
 # face-recognition
-install libraries for face-recognition
+install libraries for face-recognition on raspberry pi, preferrably a Raspi 4, but all can be used.
 
 Here are the steps to install the face recognition library on your Raspberry Pi. I recommend using a Raspberry Pi 4 for better responsiveness, but this process should work on other models as well.
 
