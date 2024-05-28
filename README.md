@@ -3,6 +3,8 @@ Install libraries for face-recognition on raspberry pi, preferrably a Raspi 4, b
 
 Also, read this, https://gist.github.com/ageitgey/629d75c1baac34dfa5ca2a1928a7aeaf
 and this, https://pypi.org/project/face-recognition/
+and this, https://github.com/ageitgey/face_recognition/blob/master/Dockerfile#L6-L34
+
 
 
 Update and Upgrade: Open a terminal on your Raspberry Pi and run the following commands one at a time:
